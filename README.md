@@ -2,7 +2,7 @@
 
 # 图吧工具箱社区插件库
 
-这是[图吧工具箱 WinUI 3](https://github.com/luolangaga/Tubas)的社区资源仓库，用于收集和分发实用的 Windows 工具，并展示社区成员提交的电脑性能报告。
+这是图吧工具箱 WinUI 3 的社区资源仓库（Fork 镜像：上游 [luolangaga/Tubas](https://github.com/luolangaga/Tubas) 仓库当前已不可访问，插件与报告仍在本仓库维护），用于收集和分发实用的 Windows 工具，并展示社区成员提交的电脑性能报告。
 
 ## 仓库内容
 
