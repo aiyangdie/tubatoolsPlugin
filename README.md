@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/49-tubatoolsPlugin.jpg" alt="tubatoolsPlugin 项目封面" width="100%"></p>
+
 # 图吧工具箱社区插件库
 
 这是[图吧工具箱 WinUI 3](https://github.com/luolangaga/Tubas)的社区资源仓库，用于收集和分发实用的 Windows 工具，并展示社区成员提交的电脑性能报告。
